@@ -9,7 +9,9 @@
   "dependencies": {
     "babel-polyfill": "^6.13.0",
     "babel-runtime": "^6.0.0",
-    "vue": "^2.6.12"
+    "vue": "^2.6.12",
+    "vue-easy-annotation": "^1.0.5",
+    "easyannotation": "^1.0.6"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
